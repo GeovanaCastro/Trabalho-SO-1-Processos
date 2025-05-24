@@ -1,4 +1,3 @@
-# process.py
 class Process:
     def __init__(self, pid, arrival_time, burst_time):
         self.pid = pid

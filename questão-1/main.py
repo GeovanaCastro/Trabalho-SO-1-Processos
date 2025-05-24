@@ -1,4 +1,3 @@
-# main.py
 import random
 from process import Process
 from schedulers import fcfs, sjf_nonpreemptive, round_robin

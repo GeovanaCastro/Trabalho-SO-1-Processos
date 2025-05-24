@@ -1,4 +1,3 @@
-# metrics.py
 import statistics
 
 def calculate_metrics(processes):

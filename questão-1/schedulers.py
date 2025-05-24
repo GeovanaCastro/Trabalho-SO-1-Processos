@@ -1,4 +1,3 @@
-# schedulers.py
 import heapq
 
 def fcfs(processes):
